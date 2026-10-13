@@ -137,6 +137,7 @@ See also [Friends of Rust](https://prev.rust-lang.org/en-US/friends.html) (Organ
 * [Sandstorm Collections App](https://github.com/sandstorm-io/collections-app)
 * [Servo](https://github.com/servo/servo) — A prototype web browser engine
 * [shaunlee/beanstalkd-rs](https://github.com/shaunlee/beanstalkd-rs) — A drop-in replacement for [beanstalkd](https://github.com/beanstalkd/beanstalkd): the same work-queue protocol byte for byte, with built-in TLS, Prometheus metrics and optional Raft replication [![CI](https://github.com/shaunlee/beanstalkd-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/shaunlee/beanstalkd-rs/actions/workflows/ci.yml)
+* [Synaps](https://github.com/HaseebKhalid1507/SynapsCLI) — Terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language.
 * [trust-dns](https://crates.io/crates/trust-dns) — A DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
 * [Tura](https://github.com/Tura-AI/tura) — A local, open-source coding agent with terminal, TUI, and desktop interfaces.
 * [Weld](https://github.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
